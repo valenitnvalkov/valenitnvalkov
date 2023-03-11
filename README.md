@@ -17,5 +17,5 @@
     Tools I have used:
 </h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,git,selenium" alt="">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,git,selenium" alt="">
 </div>
